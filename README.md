@@ -1,4 +1,3 @@
-# ramirezcarlos.github.io
 # ML Engineer
 
 ### Education
