@@ -4,9 +4,9 @@
 B.S., Mechatronics Engineer | Instituto Tecnologico de Ciudad Juarez
 
 ### Courses
-TensorFlow Developer Professional Certificate (DeepLearning.AI)
-Deep Neural Networks with Pytorch
-Python 3 Programming Specilization (University of Michigan)
+- TensorFlow Developer Professional Certificate (DeepLearning.AI)
+- Deep Neural Networks with Pytorch
+- Python 3 Programming Specilization (University of Michigan)
 
 ### Skills
 - Python
