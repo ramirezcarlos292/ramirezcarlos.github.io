@@ -1,1 +1,6 @@
-
+title: Carlos Ramirez
+logo: /assets/img/headshot_circle.png
+#description: text below Image
+show_downloads: false
+#theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
