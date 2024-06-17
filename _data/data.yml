@@ -17,9 +17,8 @@ sidebar:
     phone: +52 656 669 61 55
     timezone: Mountain Standard Time
     citizenship: Mexican
-    website: ramirezcarlos292.github.io/ramirezcarlos.github.io/ # blog.kas.com #do not add http://
+    website: www.coursera.org/user/888ac07fe996453fa75152f3288e5014 # blog.kas.com #do not add http://
     linkedin: carlos-ivan-ramirez-martinez-b3b4a6b6/
-    coursera: https://www.coursera.org/user/888ac07fe996453fa75152f3288e5014
     github: ramirezcarlos292
     stack-overflow: 17373432/carlos-ramírez # Number/Username, e.g. 123456/alandoe
     pdf: '' # http://www.africau.edu/images/default/sample.pdf
@@ -100,7 +99,8 @@ experiences:
           In this role, I started projects to improve the area's performance by streamlining the process 
           and communication between cross-functional enegineering teams to create the prototypes customers 
           expected to launch new vehicles in time.
-          - Designed and built a cutting-edge prototype for an automated fuse inspection system utilizing ML algorithms. This system adeptly identifies misplaced or missing fuses in real-time, improving quality assurance and customer
+          - Designed and built a cutting-edge prototype for an automated fuse inspection system utilizing ML algorithms. 
+          This system adeptly identifies misplaced or missing fuses in real-time, improving quality assurance and customer
           satisfaction.
           - Automated bill of materials and components assembly coordinates from txt files avoiding 20% scrap rate because of 
           missing/misplaced components during manufacturing setups.
@@ -168,8 +168,6 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
-        ''
     assignments:
       - title: Smart Cat Litter Box | Python, TFlite, ESP32, OpenCV
         link: "#hook"
