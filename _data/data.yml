@@ -171,15 +171,15 @@ projects:
     assignments:
       - title: Smart Cat Litter Box | Python, TFlite, ESP32, OpenCV
         link: "#hook"
-        tagline: "Detect when a cat enter the litter box and turn on appliances, integrating Electric/Electronic Control and a web interface."
+        tagline: Detects when a cat enter the litter box and turn on appliances, integrating Electric/Electronic Control and a web interface.
 
       - title: Surgical Staple Inspection System | Python, Pytorch, Git, OpenCV
         link: "#"
-        tagline: "Developed an automated inspection using a microscope to detect/measure surgical staples and identify defects."
+        tagline: Developed an automated inspection using a microscope to detect/measure surgical staples and identify defects.
 
       - title: Serialization method using image patterns recognition | Python, Tenforflow, Git, OpenCV
         link: "#"
-        tagline: "Developed and integrated a part to part identification system that enabled digital twin modelling of manufacturing processes."
+        tagline: Developed and integrated a part to part identification system that enabled digital twin modelling of manufacturing processes.
         
 skills:
     title: Skills &amp; Proficiency
