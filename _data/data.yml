@@ -114,7 +114,7 @@ certifications:
           start: 2021
           end: 2022
           organization: DeepLearning.AI
-          credentialid: 111-222
+          credentialid: 
           credentialurl: https://coursera.org/verify/specialization/U9DN5VZ3EV49
           credentialname: TensorFlow Advanced Techniques
           details: |
@@ -130,7 +130,7 @@ certifications:
           start: 2021
           end: 2021
           organization: DeepLearning.AI
-          credentialid: 111-222
+          credentialid: 
           credentialurl: https://coursera.org/verify/professional-cert/7Z75XJ92B5GA
           credentialname: DeepLearning.AI TensorFlow Developer
           details: |
@@ -149,7 +149,7 @@ certifications:
           start: 2020
           end: 2021
           organization: University of Michigan
-          credentialid: 111-222
+          credentialid: 
           credentialurl: https://coursera.org/verify/specialization/C5N7MLDX8WSQ
           credentialname: Python 3 Programming
           details: |
