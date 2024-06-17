@@ -8,47 +8,44 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Carlos Ramirez
+    tagline: Machine Learning Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: carlos.rmz.mx1993@gmail.com
+    phone: +52 656 669 61 55
+    timezone: Mountain Standard Time
+    citizenship: Mexican
+    website: '' # blog.kas.com #do not add http://
+    linkedin: https://www.linkedin.com/in/carlos-ivan-ramirez-martinez-b3b4a6b6/
+    coursera: https://www.coursera.org/user/888ac07fe996453fa75152f3288e5014
+    github: ramirezcarlos292
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    gitlab: ''
+    bitbucket: ''
+    twitter: '-'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: ''
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: '' # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Espanish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Swimming
           link:
 
-        - item: Snowboarding
+        - item: Gardening
           link:
 
         - item: Cooking
@@ -57,209 +54,163 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      As an engineer deeply committed to driving positive change, 
+      I harness my passion for developing projects that significantly 
+      benefit individuals, communities, or the environment. 
+      With the integration of Machine Learning and Deep Learning into my skill set, 
+      I have elevated my ability to deliver projects of exceptional 
+      value and transformative potential. My career is marked by a 
+      relentless pursuit of innovation and a dedication to leveraging 
+      cutting-edge technologies to solve complex challenges.
 education:
-    title: Education
+    title: Mechatronics Engineer (Power Electronics Control) | 
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor Degree in Mechatronics
+        university: Instituto Tecnologico de Ciudad Juarez
+        time: 2011 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Mechatronics Engineer
             - Bullet point
             - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: ML Engineer
+        time: 2020 - Present
+        company: EES Johnson & Johnson, Mexico
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          As MLE at J&J, pioneered the application of artificial intelligence within medical 
+          device production settings, significantly enhancing operational efficiency and product quality
+          using ml models to predict component failure thereby reducing downtime and maintenance costs and 
+          implemented innovative tracking systems for raw material logistics and personnel activity.
+
+            - Optimization of Manufacturing Processes: Utilize advanced machine learning techniques to analyze production 
+            data, identify inefficiencies, and implement predictive models that have resulted in a 300k USD in waste reduction.
+            - Computer Vision Projects: Lead the development and deployment of computer vision algorithms to automate 
+            quality control, reducing manual inspection time by 100%.
+            - Algorithm Evaluation: Conduct rigorous evaluation of machine learning algorithms using cross-validation and 
+            statistical testing to ensure model robustness and accuracy.
+            - Innovative Solutions: Developed a proprietary algorithm for Serialization of components using computer vision
+            resulting in 700k USD investment equipment avoidance.
+            - Cross-Functional Collaboration: Collaborated with the R&D department to integrate machine learning insights into 
+            the design of next-generation manufacturing equipment.
+            - Project Leadership: Mentor and guide a team of junior engineers and data scientists in the design and 
+            implementation of machine learning solutions for data-driven projects across the organization.
+
+      - role: Prototypes Engineer
+        time: 2016 - 2020
+        company: Aptiv MTC, Mexico
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          In this role, I started projects to improve the area's performance by streamlining the process 
+          and communication between cross-functional enegineering teams to create the prototypes customers 
+          expected to launch new vehicles in time.
+          - Designed and built a cutting-edge prototype for an automated fuse inspection system utilizing ML algorithms. This system adeptly identifies misplaced or missing fuses in real-time, improving quality assurance and customer
+          satisfaction.
+          - Automated bill of materials and components assembly coordinates from txt files avoiding 20% scrap rate because of 
+          missing/misplaced components during manufacturing setups.
+          - Design, Create, Maintain and Integrate Electrical tests to ensure quality and functionality before shipping to
+          customers.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Advanced Techniques by DeepLearning.AI on Coursera. Certificate earned at May 2, 2022
+          start: 2021
+          end: 2022
+          organization: DeepLearning.AI
+          credentialid: 111-222
+          credentialurl: https://coursera.org/verify/specialization/U9DN5VZ3EV49
+          credentialname: TensorFlow Advanced Techniques
+          details: |
+            Learned how to optimize training in different environments with multiple
+            processors and chip types and have also been introduced to
+            advanced computer vision scenarios such as object detection, image
+            segmentation, and interpreting convolutions. Explored
+            generative deep learning including the ways AIs can create new
+            content from Style Transfer to Auto Encoding, VAEs, and GANs. 
+            Equipped to build complex, custom models using TensorFlow.
+            
+        - name: TensorFlow Developer by DeepLearning.AI on Coursera. Certificate earned at February 18, 2021
+          start: 2021
+          end: 2021
+          organization: DeepLearning.AI
+          credentialid: 111-222
+          credentialurl: https://coursera.org/verify/professional-cert/7Z75XJ92B5GA
+          credentialname: DeepLearning.AI TensorFlow Developer
+          details: |
+            You have completed all 4 courses of the
+            DeepLearning.AI TensorFlow Developer Professional Certificate
+            program. As part of this Professional Certificate program, you have
+            learned: how to build and train neural networks using TensorFlow,
+            how to improve network performance using convolutions as you train
+            it to identify real-world images, how to teach machines to understand,
+            analyze, and respond to human speech with natural language
+            processing systems, and more! These, and other TensorFlow
+            concepts, are going to be at the forefront of the coming
+            transformation to an AI-powered future.
+
+        - name: Python 3 Programming by University of Michigan on Coursera. Certificate earned at April 24, 2021
           start: 2020
           end: 2021
-          organization: Microsoft
+          organization: University of Michigan
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: https://coursera.org/verify/specialization/C5N7MLDX8WSQ
+          credentialname: Python 3 Programming
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            This specialization teaches the fundamentals of programming in
+            Python 3. We will begin at the beginning, with variables, conditionals, 
+            and loops, and get to some intermediate material like keyword 
+            parameters, list comprehensions, lambda expressions, and class
+            inheritance. You will have lots of opportunities to practice. You will also 
+            learn ways to reason about program execution, so that it is no longer
+            mysterious and you are able to debug programs when they don’t
+            work. By the end of the specialization, you’ll be writing programs that
+            query Internet APIs for data and extract useful information from
+            them. And you’ll be able to learn to use new modules and APIs on
+            your own by reading the documentation. That will give you a great
+            launch toward being an independent Python programmer.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        ''
     assignments:
-      - title: Velocity
+      - title: Smart Cat Litter Box | Python, TFlite, ESP32, OpenCV
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Detect when a cat enter the litter box and turn on appliances, integrating Electric/Electronic Control and a web interface."
 
-      - title: DevStudio
+      - title: Surgical Staple Inspection System | Python, Pytorch, Git, OpenCV
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Developed an automated inspection using a microscope to detect/measure surgical staples and identify defects."
 
-      - title: Tempo
+      - title: Serialization method using image patterns recognition | Python, Tenforflow, Git, OpenCV
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        tagline: "Developed and integrated a part to part identification system that enabled digital twin modelling of manufacturing processes."
+        
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: Proficient
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Tensorflow
+        level: Proficient
 
-      - name: Angular
-        level: 98%
+      - name: Pytorch
+        level: Proficient
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Scikit-learn
+        level: Proficient
+      
+      - name: Git
+        level: Proficient
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SQL 
+        level: Intermediate
 
-      - name: Sketch & Photoshop
-        level: 60%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
