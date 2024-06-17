@@ -17,7 +17,7 @@ sidebar:
     phone: +52 656 669 61 55
     timezone: Mountain Standard Time
     citizenship: Mexican
-    website: https://ramirezcarlos292.github.io/ramirezcarlos.github.io/ # blog.kas.com #do not add http://
+    website: ramirezcarlos292.github.io/ramirezcarlos.github.io/ # blog.kas.com #do not add http://
     linkedin: carlos-ivan-ramirez-martinez-b3b4a6b6/
     coursera: https://www.coursera.org/user/888ac07fe996453fa75152f3288e5014
     github: ramirezcarlos292
@@ -57,15 +57,16 @@ career-profile:
       relentless pursuit of innovation and a dedication to leveraging 
       cutting-edge technologies to solve complex challenges.
 education:
-    title: Mechatronics Engineer (Power Electronics Control) | 
+    title: Mechatronics Engineer (Power Control Electronics)
     info:
       - degree: Bachelor Degree in Mechatronics
         university: Instituto Tecnologico de Ciudad Juarez
         time: 2011 - 2017
         details: |
           Mechatronics Engineer
-            - Bullet point
-            - Bullet point
+            - 3D designer/printer experience
+            - Electronics/Electric enthusiast
+            - Programming with PC and uC
 
 experiences:
     title: Experiences
